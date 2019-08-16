@@ -4,6 +4,7 @@
       <mapping ext="grovy" type="Groovy" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
+      <mapping ext="properties_template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
