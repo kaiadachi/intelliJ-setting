@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="grovy" type="Groovy" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
