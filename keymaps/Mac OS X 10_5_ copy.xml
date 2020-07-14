@@ -28,6 +28,8 @@
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -36,6 +38,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DomCollectionControl.Remove">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -69,6 +72,7 @@
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorUpWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -87,10 +91,17 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoBookmark0" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift meta b" />
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.DeleteComponent">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -100,6 +111,7 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Images.Thumbnails.UpFolder" />
+  <action id="KotlinShellExecute" />
   <action id="List-selectNextRow">
     <keyboard-shortcut first-keystroke="down" />
   </action>
@@ -144,6 +156,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ViewSource" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="meta back_space" />
