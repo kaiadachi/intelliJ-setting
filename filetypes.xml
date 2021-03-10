@@ -4,6 +4,7 @@
       <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest.kt" type="AUTO_DETECTED" />
       <mapping ext="grovy" type="Groovy" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
