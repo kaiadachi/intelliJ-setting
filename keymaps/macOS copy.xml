@@ -13,6 +13,10 @@
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
