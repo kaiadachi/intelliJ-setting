@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -11,4 +15,5 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
