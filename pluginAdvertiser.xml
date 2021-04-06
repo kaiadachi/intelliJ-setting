@@ -1581,6 +1581,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.toml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
@@ -2029,6 +2037,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="Cargo.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Cargo.toml.orig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="Dockerfile">
           <value>
             <plugin>
@@ -2071,6 +2095,22 @@
               <option name="myPluginId" value="Docker" />
               <option name="myPluginName" value="Docker" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Gopkg.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Pipfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.toml.lang" />
+              <option name="myPluginName" value="Toml" />
             </plugin>
           </value>
         </entry>
