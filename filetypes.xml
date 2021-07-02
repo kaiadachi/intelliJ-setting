@@ -5,7 +5,6 @@
       <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest.kt" type="AUTO_DETECTED" />
       <mapping ext="grovy" type="Groovy" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
