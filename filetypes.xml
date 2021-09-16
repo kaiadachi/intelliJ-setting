@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="rebuild-minio" type="AUTO_DETECTED" />
+      <mapping pattern="rebuild-file-storage" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest.kt" type="AUTO_DETECTED" />
       <mapping ext="grovy" type="Groovy" />
