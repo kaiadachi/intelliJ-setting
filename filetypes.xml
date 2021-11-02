@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="rebuild-minio" type="AUTO_DETECTED" />
-      <mapping pattern="rebuild-file-storage" type="AUTO_DETECTED" />
-      <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest.kt" type="AUTO_DETECTED" />
+      <mapping pattern="rebuild-file-storage" type="AUTO_DETECTED" />
+      <mapping pattern="rebuild-minio" type="AUTO_DETECTED" />
+      <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
       <mapping ext="grovy" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
-      <mapping pattern="controller" type="PLAIN_TEXT" />
       <mapping pattern="synonym.sql" type="PLAIN_TEXT" />
+      <mapping pattern="controller" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="chromedriver" type="PLAIN_TEXT" />
       <mapping pattern="mtcnn_model-shard1" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="properties_template" type="PLAIN_TEXT" />
