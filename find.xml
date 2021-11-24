@@ -9,10 +9,10 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.graphqls</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.html</mask>
     <mask>*.java</mask>
   </component>
 </application>
