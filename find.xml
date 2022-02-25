@@ -9,12 +9,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.graphqls</mask>
     <mask>*.sql</mask>
+    <mask>*.kt</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
   </component>
 </application>
