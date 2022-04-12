@@ -4,8 +4,23 @@
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
+    <driver id="mysql">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
+    </driver>
+    <driver id="mysql_aurora">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+    </driver>
+    <driver id="redshift">
+      <artifact id="Redshift" name="Redshift" use="true" version="2.1.0.1" />
+    </driver>
+    <driver id="fd687d05-a577-4469-9d39-7df0a33d0bc1" based-on="mariadb" dialect="MySQL" icon="AllIcons.Providers.Mysql">
+      <url-template name="default" template="jdbc:mysql:aurora://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:param}&gt;]" />
+      <url-template name="default" template="jdbc:mysql:aurora://address=\(protocol=tcp\)\(&lt;\)\(,host={host:host_ipv6:localhost},port={port::3306},user={user},password={password},{:identifier}={:identifier}&gt;\)[/{database}][\?&lt;&amp;,{:identifier}={:param}&gt;]" />
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
     </driver>
   </component>
 </application>
