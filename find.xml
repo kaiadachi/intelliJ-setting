@@ -9,8 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <mask>*.graphqls</mask>
-    <mask>*.coffee</mask>
     <mask>*.sql</mask>
     <mask>*.thyem</mask>
     <mask>*.kt</mask>
@@ -20,5 +20,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.coffee</mask>
   </component>
 </application>
