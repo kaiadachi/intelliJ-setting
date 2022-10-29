@@ -10,15 +10,15 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.graphqls</mask>
-    <mask>*.sql</mask>
     <mask>*.thyem</mask>
     <mask>*.kt</mask>
+    <mask>*.coffee</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.coffee</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
