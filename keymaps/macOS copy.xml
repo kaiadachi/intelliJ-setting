@@ -1,0 +1,50 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.UpdateProject" />
+</keymap>
