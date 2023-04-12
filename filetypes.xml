@@ -9,7 +9,6 @@
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping ext="grovy" type="Groovy" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -22,10 +21,7 @@
       <mapping ext="properties_template" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
     </extensionMap>
   </component>
