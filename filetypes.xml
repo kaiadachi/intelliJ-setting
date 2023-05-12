@@ -6,8 +6,6 @@
       <mapping pattern="20221029__camp_basemachina_authorized" type="AUTO_DETECTED" />
       <mapping pattern="rebuild-minio" type="AUTO_DETECTED" />
       <mapping pattern="uploadImageRequest" type="AUTO_DETECTED" />
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
       <mapping ext="grovy" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -23,6 +21,8 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <mapping ext="env" type="Env File" />
+      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
